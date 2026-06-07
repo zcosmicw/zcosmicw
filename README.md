@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋I am Cosmic, Cybersecurity analyst and network researcher.
+
 
 <!--
 **zcosmicw/zcosmicw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
