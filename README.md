@@ -1,6 +1,5 @@
 ## Hi there 👋I am Cosmic, Cybersecurity analyst and network researcher.
-
-
+I research cybersecurity topics including DDoS attack vectors, botnet architectures, and malware analysis (Mirai). Also interested in firewall configuration and web development.
 <!--
 **zcosmicw/zcosmicw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
